@@ -63,6 +63,7 @@ Add to these tests:
 12. Write "No Trends available" if there is no continous increase in the csv data.
 13. Write "invalid Data" if special characters are available in the CSV File.
 14. Write "Notification Unsuccessful" when failed to notification process failed abruptly.
+15. Write "UnAuthorised Access" if the user does not have permission to read the CSV file.
 
 ### Recognize Fakes and Reality
 
