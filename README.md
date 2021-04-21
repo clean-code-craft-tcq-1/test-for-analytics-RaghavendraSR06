@@ -42,6 +42,7 @@ Off-the-shelf PDF converter | Yes           | For converting the report to PDF
 Counting the breaches       | Yes           | To count the number of breaches
 Detecting trends            | Yes           | This is part of the software being developed
 Notification utility        | Yes           | Sending the notification on monthly basis
+Reading the File            | Yes           | Reading the CSV File
 
 ### List the Test Cases
 
