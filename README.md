@@ -80,4 +80,4 @@ Notify report availability | New PDF Report  | Notification to the target       
 Report inaccessible server | Conn_error(404) | Display connection issue                                  | Fake the server
 Find minimum and maximum   | csv file        | report of minimun and maximum value                       | None - it's a pure function
 Detect trend               | CSV file        | report of readings in 30 mins                             | mock the readings
-Write to PDF               | CSV file values | Minimum,Maximum,Count of breaches and trends from csv file| mock the PDF output
+Write to PDF               | CSV file values | Report Generated                                          | mock the PDF output
