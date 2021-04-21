@@ -59,8 +59,9 @@ Add to these tests:
 8. Write "File Not Found" if the CSV is not available in the defined location.
 9. Write "Connection Error" if there is any connection related issue.
 10. Write "No new report generated" if there is no new report generated for the week.
-
-(add more)
+11. Write "Notified Succesfully" when the PDF is reported(notified) successfully.
+12. Write "No Trends available" if there is no continous increase in the csv data.
+13. Write "invalid Data" if special characters are available in the CSV File.
 
 ### Recognize Fakes and Reality
 
