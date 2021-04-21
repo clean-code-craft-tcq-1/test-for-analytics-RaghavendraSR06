@@ -62,6 +62,7 @@ Add to these tests:
 11. Write "Notified Succesfully" when the PDF is reported(notified) successfully.
 12. Write "No Trends available" if there is no continous increase in the csv data.
 13. Write "invalid Data" if special characters are available in the CSV File.
+14. Write "Notification Unsuccessful" when failed to notification process failed abruptly.
 
 ### Recognize Fakes and Reality
 
